@@ -1,0 +1,22 @@
+{
+  "name": "CXTestKit",
+  "version": "0.1.0",
+  "summary": "A short description of CXTestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/houchaoxin/CXTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "houchaoxin": "houchaoxin@maetimes.com"
+  },
+  "source": {
+    "git": "https://github.com/houchaoxin/CXTestKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CXTestKit/Classes/**/*"
+}

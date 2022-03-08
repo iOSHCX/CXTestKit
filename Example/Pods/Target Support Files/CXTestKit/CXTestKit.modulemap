@@ -1,0 +1,6 @@
+framework module CXTestKit {
+  umbrella header "CXTestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
