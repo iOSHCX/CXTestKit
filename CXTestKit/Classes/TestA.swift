@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+class TestA: NSObject {
+    override init() {
+        super.init()
+        
+        print("111","222")
+    }
+}
