@@ -32,6 +32,8 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'CXTestKit/Classes/**/*'
   
+  s.dependency 'AFNetworking', '~> 2.3'
+  
   # s.resource_bundles = {
   #   'CXTestKit' => ['CXTestKit/Assets/*.png']
   # }
